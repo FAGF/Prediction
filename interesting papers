@@ -1,0 +1,15 @@
+1. prediction with HD-map
+
+   1.1 vectornet
+   
+   1.2 uber laneGCN
+   
+   1.3 Argo
+   
+   1.4 Lane-Attention: Predicting Vehicles’ Moving Trajectories by Learning Their Attention over Lanes, 2020, IROS [paper](https://arxiv.org/pdf/1909.13377.pdf), [dataset:Baidu]
+   
+   1.5
+   
+   1.6
+   
+   1.7 EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning
